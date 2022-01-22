@@ -1,3 +1,1 @@
-Deep Learning là gì?
-
-Deep Learning là một ví dụ rõ nét về vấn đề này: Nó liên quan đến – nhưng không thể thay thế cho nhau – phạm trù rộng hơn của Machine Learning. Điều này làm trầm trọng thêm khả năng cho những hiểu lầm thường thấy. Trên thực tế, có một sự tương đồng với những cô búp bê Nga ở đây: Deep Learning nằm bên trong Machine Learning, Machine Learning lại nằm trong Trí tuệ nhân tạo / AI. Trí thông minh nhân tạo về cơ bản là khi máy móc thực hiện các nhiệm vụ thường đòi hỏi trí thông minh của con người. Lĩnh vực trí tuệ nhân tạo bao gồm Machine Learning, trong đó máy móc có thể học hỏi bằng kinh nghiệm và có được các kỹ năng mà không cần sự tham gia của con người, ông Bill Brock, phó giáp đốc kỹ thuật tại Very,  giải thích. Deep Learning là một nhánh của Machine Learning, trong đó mạng lưới thần kinh – thuật toán lấy cảm hứng từ bộ não con người – học từ một lượng lớn dữ liệu.
+Không có gì ở đây hết, chỉ đơn giản là 1 project nghiên cứu về trí tuệ nhân tạo
